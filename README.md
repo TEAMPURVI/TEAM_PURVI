@@ -11,22 +11,22 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h1 align="center"
   
-![TEAM_PURVI](https://github-stats-alpha.vercel.app/api?username=purvimusic"TEAM_PURVI")
+![TEAM_PURVI](https://github-stats-alpha.vercel.app/api?username=TEAMPURVI"TEAM_PURVI")
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=purvimusic&theme=onedark&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=TEAMPURVI&theme=onedark&hide_border=false)<br/>
 
 <p align="center">
-<img src="https://github-stats-alpha.vercel.app/api/?username=purvimusic&cc=000&tc=00ff00&ic=fff000&bc=fff" align="center">
+<img src="https://github-stats-alpha.vercel.app/api/?username=TEAMPURVI&cc=000&tc=00ff00&ic=fff000&bc=fff" align="center">
 </p>
 
 <p align="center">&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=purvimusic&&show_icons=true&theme=midnight-purple" alt="purvimusic"/></p>        
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=TEAMPURVI&&show_icons=true&theme=midnight-purple" alt="purvimusic"/></p>        
  
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=purvimusic&layout=compact&theme=tokyonight" align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TEAMPURVI&layout=compact&theme=tokyonight" align="center">
 
 
 
